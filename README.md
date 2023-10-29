@@ -24,7 +24,7 @@ This program creates a web page that displays a user's result and a summary of s
 ### Links
 
 - Solution URL: [Github Repo](https://github.com/nurwandhika/results-summary-component).
-- Live Site URL: [Github Pages](https://nurwandhika.github.io/nft-preview-card/)
+- Live Site URL: [Github Pages](https://nurwandhika.github.io/results-summary-component/)
 
 ## My process
 
